@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Тохиргоо"
+        android:id="@+id/settings"
+        app:showAsAction="never" />
+    <item android:title="Файлаас үг нэмэх"
+        app:showAsAction="never"
+        android:id="@+id/addfile"/>
+    <item
+        android:id="@+id/nightmode"
+        android:title="Day mode"
+        app:showAsAction="never"
+    />
+</menu>

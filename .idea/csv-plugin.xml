@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\FuLL\AppData\Local\Google\AndroidStudio2022.1\device-explorer\Pixel_5_API_30 [emulator-5554]\sdcard\Android\words.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\FuLL\AppData\Local\Google\AndroidStudio2022.1\device-explorer\Pixel_5_API_30 [emulator-5554]\storage\101F-1C06\Android\data\12\words.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
